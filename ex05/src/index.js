@@ -2,7 +2,7 @@
 var school = {
     name: "Arena",
     location: "Sarajevo",
-    established: "2020"
+    established: 2020
 };
 // End of school object
 // Create a function below this line

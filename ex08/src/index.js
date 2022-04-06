@@ -7,9 +7,9 @@ function myObject(){
     Object.freeze(MATH_CONSTANTS);
     // Only change code above this line
     try {
-    MATH_CONSTANTS.E = 23;
+        MATH_CONSTANTS.E = 23;
     } catch(error){
-    console.log(error.message);
+        console.log(error.message);
     }
     return MATH_CONSTANTS.E;
 }
