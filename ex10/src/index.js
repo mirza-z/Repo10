@@ -16,7 +16,7 @@ function myFunction(){
             artist: "Dino Merlin",
             title: "Halima",
             release_year: 1988,
-            format: {
+            formats: {
                 1: "CDC",
                 2: "8T8",
                 3: "LPL"
